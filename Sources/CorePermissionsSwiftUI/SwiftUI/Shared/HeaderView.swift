@@ -19,7 +19,7 @@ struct HeaderView: View {
         VStack{
             VStack{
                 if style == .alert{
-                        Text("PERMISSIONS REQUEST")
+					Text("PERMISSIONS REQUEST".localized)
                             .font(.footnote)
                             .fontWeight(.semibold)
                             .foregroundColor(Color(.systemGray2))
