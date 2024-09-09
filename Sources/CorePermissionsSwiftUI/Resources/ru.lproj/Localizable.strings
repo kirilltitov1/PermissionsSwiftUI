@@ -1,0 +1,17 @@
+/* MARK: Allow Button */
+"button_allow" = "РАЗРЕШИТЬ";
+"button_allowed" = "РАЗРЕШЕНО";
+"button_denied" = "ОТКЛОНЕНО";
+"button_next" = "ДАЛЕЕ";
+
+/* MARK: UI labels */
+"permission_header" = "Необходимы разрешения";
+"permission_primary_label" = "Чтобы использовать определенные функции этого приложения, необходимо предоставить разрешения. См. описание для каждого разрешения";
+"permission_secondary_label" = "Разрешения необходимы для правильной работы всех функций. Если не разрешено, вы должны включить разрешения в настройках";
+
+/* MARK: Permissions (name & description) */
+"camera_title" = "Камера";
+"camera_description" = "Разрешить использование вашей камеры";
+
+"health_title" = "Здоровье";
+"health_description" = "Разрешить доступ к вашей информации о здоровье";
