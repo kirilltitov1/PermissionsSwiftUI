@@ -12,11 +12,9 @@
 /* MARK: Permissions (name & description) */
 "camera_title" = "Камера";
 "camera_description" = "Разрешить использование вашей камеры";
-"Camera description" = "Разрешить использование вашей камеры";
 
 "health_title" = "Здоровье";
 "health_description" = "Разрешить доступ к вашей информации о здоровье";
-"health description" = "Разрешить доступ к вашей информации о здоровье";
 
 
 "PERMISSIONS REQUEST" = "ЗАПРОС РАЗРЕШЕНИЙ";
