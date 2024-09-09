@@ -72,8 +72,10 @@ struct HeaderView: View {
             }
   
         }
-        
-
-            
+		.onDisappear {
+			exitButtonAction()
+			guard let handler = store.configStore.onDisappearHandler else {return}
+			handler(schemaStore.successfulPermissions, schemaStore.erroneousPermissions)
+		}
     }
 }
